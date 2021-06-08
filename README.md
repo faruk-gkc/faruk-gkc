@@ -24,12 +24,14 @@
 <br/>
 <br/>
 
-<div style="display:flex">
+<div style="display:center">
 <img src="https://github-readme-stats.vercel.app/api?username=faruk-gkc&hide=prs&show_icons=true&include_all_commits=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&title_color=fff" >
-
+</div>
 
 <br/>
 <br/>
 
+
+<div style="display:center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faruk-gkc"/>
 </div>
