@@ -1,4 +1,4 @@
-<iframe src="https://gifer.com/embed/8kHn" width=480 height=673.200 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+<img src="https://media.giphy.com/media/8FNXce4OdeJxK/giphy.gif" align="right" width="400" height="250">
 
 ### Hello, I'm Faruk 👋
 
