@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/JAAot6yVvkHni/giphy.gif" align="right" width="400" height="350">
+<img src="https://media.giphy.com/media/JAAot6yVvkHni/giphy.gif" align="right" width="400" height="320">
 
 ### Hi there, I'm Faruk 👋
 
