@@ -1,9 +1,9 @@
 <img src="https://media.giphy.com/media/8FNXce4OdeJxK/giphy.gif" align="right" width="400" height="250">
 
-### Hello, I'm Faruk 👋
+### Hi there, I'm Faruk 👋
 
 
-### Mechatronics Engineer
+## Mechatronics Engineer
 
 <br/>
 
